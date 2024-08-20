@@ -1,5 +1,1 @@
-<a href="https://iconscout.com/icons/django" class="text-underline font-size-sm" target="_blank">Django</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
-<a href="https://iconscout.com/3d-illustrations/html" class="text-underline font-size-sm" target="_blank">HTML</a> by <a href="https://iconscout.com/contributors/tomsdesign" class="text-underline font-size-sm">Toms Design</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
-<a href="https://iconscout.com/3d-illustrations/css" class="text-underline font-size-sm" target="_blank">CSS</a> by <a href="https://iconscout.com/contributors/tomsdesign" class="text-underline font-size-sm" target="_blank">Toms Design</a>
-<a href="https://iconscout.com/3d-illustrations/angularjs" class="text-underline font-size-sm" target="_blank">AngularJS</a> by <a href="https://iconscout.com/contributors/tomsdesign" class="text-underline font-size-sm">Toms Design</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
-<a href="https://iconscout.com/3d-illustrations/javascript" class="text-underline font-size-sm" target="_blank">JavaScript</a> by <a href="https://iconscout.com/contributors/tomsdesign" class="text-underline font-size-sm" target="_blank">Toms Design</a>
+
